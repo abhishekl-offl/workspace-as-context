@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Workspace as Context: a plain-text architecture for humans and AI agents" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-2F81F7?style=flat-square"></a>
@@ -31,9 +29,6 @@ Workspace as Context takes a different approach:
 
 The workspace becomes persistent context. The agent does not need your entire history in every prompt. It starts with one small context file, follows links when it needs detail, and updates the system as new information arrives.
 
-<p align="center">
-  <img src="assets/architecture.svg" alt="Evidence, knowledge, and projects connected through a small agent contract" width="100%" />
-</p>
 
 ## Why this exists
 
